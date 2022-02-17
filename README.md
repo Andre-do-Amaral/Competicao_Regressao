@@ -3,6 +3,9 @@ Código realizado para a 7° competição de Machine Learning da FLAI. A posiç�
 
 O objetivo da competição era prever a remuneração de pessoas de acordo com algumas características e obter o menor erro médio absoluto.
 
+NOTA 1: É interessante saber que grande parte da análise foi feita considerando que o dataset era pequeno, para datasets menores não faria sentido fazer alguns gráficos ou análises que necessitariam um processamento gigantesco.
+
+NOTA 2: Algumas coisas foram feitas visando com foco total melhorar o erro médio absoluto, mesmo que isso levasse a construção de modelos que demandam maior processamento e tempo de rodada, por exemplo. 
 
 O código foi dividido em 4 notebooks por conta do tamanho que ficou o notebook completo, mas a ideia é juntar todos e rodar junto, visto que, os dados são importados para o notebook apenas uma vez no notebook 1.
 
